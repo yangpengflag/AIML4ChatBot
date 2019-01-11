@@ -1,0 +1,48 @@
+<aiml version="1.0.1" encoding="utf-8">
+    <category>
+        <pattern>BYE</pattern>
+        <template>再见</template>
+    </category>
+    <category>
+        <pattern>拜拜</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>再见</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>* 强 *</pattern>
+        <template>贪心学院</template>
+    </category>
+    <category>
+        <pattern>* 手机号 *</pattern>
+        <template>numbers</template>
+    </category>
+    <category>
+        <pattern>* 优势 *</pattern>
+        <template>强大的服务体系，我们拥有每天跟学员沟通的良好服务机制。不放弃任何一个学员，只要来了，就一定要让你学会。</template>
+    </category>
+    <category>
+        <pattern>* 项目式 *</pattern>
+        <template>
+            贪心学院的项目式培训结合了西方项目式培训的优点和国内的现状，最终变化成以训练营的方式进行。
+            做项目为主，老师负责解决部分知识的问题，学生负责自学部分知识，和不停的做项目，把知识巩固。
+            在项目练习中，不仅仅学习到了知识，同时也培养起来良好的学习习惯和解决问题的能力。
+        </template>
+    </category>
+    <category>
+        <pattern>Python * 人群 * </pattern>
+        <template>
+            人群包含很广泛。
+            第一:非IT圈内人群，想通过学习转行到编程领域中
+            第二:已经是IT圈内的，其他语言的开发人员，想学习Python编程
+            第三:已经是IT圈内的，但是并不是开发人员，如产品、测试、运维、DBA等岗位
+            第四:学生，未来想从事编程的工作\r\n第五:未来想从事AI领域工作的，可先通过这门课程的学习，打下良好的基础
+        </template>
+    </category>
+
+
+
+
+</aiml>
